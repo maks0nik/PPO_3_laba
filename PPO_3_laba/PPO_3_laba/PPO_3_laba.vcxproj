@@ -139,9 +139,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Book_MV.cpp" />
-    <ClCompile Include="Description.cpp" />
-    <ClCompile Include="Module_MV.cpp" />
     <ClCompile Include="PPO_3_laba.cpp" />
   </ItemGroup>
   <ItemGroup>

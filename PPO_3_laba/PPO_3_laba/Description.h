@@ -14,6 +14,6 @@ class Description
 	@ref Book_MV
 \par Содержит файлы:
 	@ref Book_MV.h
-	@ref PPO_#_laba.cpp
+	@ref PPO_3_laba.cpp
 */
 
