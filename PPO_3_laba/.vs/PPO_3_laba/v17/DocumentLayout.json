@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{03BC34F4-D46E-4CF1-8FDF-BA99241857DD}|PPO_3_laba\\PPO_3_laba.vcxproj|solutionrelative:PPO_3_laba\\Description.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{03BC34F4-D46E-4CF1-8FDF-BA99241857DD}|PPO_3_laba\\PPO_3_laba.vcxproj|C:\\Users\\\u0417\u0430\u043B\u0443\u043F\u043A\u0430\\Desktop\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{03BC34F4-D46E-4CF1-8FDF-BA99241857DD}|PPO_3_laba\\PPO_3_laba.vcxproj|solutionrelative:PPO_3_laba\\PPO_3_laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{03BC34F4-D46E-4CF1-8FDF-BA99241857DD}|PPO_3_laba\\PPO_3_laba.vcxproj|C:\\Users\\\u0417\u0430\u043B\u0443\u043F\u043A\u0430\\Desktop\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba\\Book_MV.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{03BC34F4-D46E-4CF1-8FDF-BA99241857DD}|PPO_3_laba\\PPO_3_laba.vcxproj|solutionrelative:PPO_3_laba\\Book_MV.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03BC34F4-D46E-4CF1-8FDF-BA99241857DD}|PPO_3_laba\\PPO_3_laba.vcxproj|C:\\Users\\\u0417\u0430\u043B\u0443\u043F\u043A\u0430\\Desktop\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03BC34F4-D46E-4CF1-8FDF-BA99241857DD}|PPO_3_laba\\PPO_3_laba.vcxproj|solutionrelative:PPO_3_laba\\PPO_3_laba.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book_MV.h",
+              "DocumentMoniker": "C:\\Users\\\u0417\u0430\u043B\u0443\u043F\u043A\u0430\\Desktop\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba\\Book_MV.h",
+              "RelativeDocumentMoniker": "PPO_3_laba\\Book_MV.h",
+              "ToolTip": "C:\\Users\\\u0417\u0430\u043B\u0443\u043F\u043A\u0430\\Desktop\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba\\Book_MV.h",
+              "RelativeToolTip": "PPO_3_laba\\Book_MV.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-04T14:50:30.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PPO_3_laba.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0417\u0430\u043B\u0443\u043F\u043A\u0430\\Desktop\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba.cpp",
+              "RelativeDocumentMoniker": "PPO_3_laba\\PPO_3_laba.cpp",
+              "ToolTip": "C:\\Users\\\u0417\u0430\u043B\u0443\u043F\u043A\u0430\\Desktop\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba.cpp",
+              "RelativeToolTip": "PPO_3_laba\\PPO_3_laba.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-04T14:10:52.609Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,35 +58,9 @@
               "RelativeDocumentMoniker": "PPO_3_laba\\Description.h",
               "ToolTip": "C:\\Users\\\u0417\u0430\u043B\u0443\u043F\u043A\u0430\\Desktop\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba\\Description.h",
               "RelativeToolTip": "PPO_3_laba\\Description.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-06-04T14:02:42.497Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PPO_3_laba.cpp",
-              "DocumentMoniker": "C:\\Users\\\u0417\u0430\u043B\u0443\u043F\u043A\u0430\\Desktop\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba.cpp",
-              "RelativeDocumentMoniker": "PPO_3_laba\\PPO_3_laba.cpp",
-              "ToolTip": "C:\\Users\\\u0417\u0430\u043B\u0443\u043F\u043A\u0430\\Desktop\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba.cpp",
-              "RelativeToolTip": "PPO_3_laba\\PPO_3_laba.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-06-04T14:00:02.419Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Book_MV.h",
-              "DocumentMoniker": "C:\\Users\\\u0417\u0430\u043B\u0443\u043F\u043A\u0430\\Desktop\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba\\Book_MV.h",
-              "RelativeDocumentMoniker": "PPO_3_laba\\Book_MV.h",
-              "ToolTip": "C:\\Users\\\u0417\u0430\u043B\u0443\u043F\u043A\u0430\\Desktop\\PPO_3_laba\\PPO_3_laba\\PPO_3_laba\\Book_MV.h",
-              "RelativeToolTip": "PPO_3_laba\\Book_MV.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-06-04T14:02:21.027Z",
               "EditorCaption": ""
             }
           ]
